@@ -15,5 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/',function(){
-    return view('master');
+    return view('page.trang_chu');
 });
