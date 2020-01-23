@@ -574,6 +574,21 @@
             opacity: 0.4;
             transition-duration: 0.5s;
         }
+        .messege{
+          position: fixed;
+          right:4%;
+          bottom: 17%;
+            
+            a{
+               
+                
+                img{
+                    width:60px;
+                    height: auto;
+                    
+                }
+            }
+        }
     }
     .footer{
         background-color: #0f1215;

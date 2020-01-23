@@ -630,6 +630,13 @@
                         </form>
                     </div>
                 </div>
+                <div class="messege dropdown dropleft float-right">
+                    <a href="#" class="btn dropdown-toggle" data-toggle="dropdown"><img src="giao_dien/img/cach-tat-tu-dong-luu-anh-tren-messenger-100.jpg" alt="messege" class="rounded-circle"></a>
+                    <div class="dropdown-menu">
+                         <a class="dropdown-item" href="#">Liên hệ TAO LÀ ĐẠT</a>
+
+                     </div>
+                </div>
             </div>
         </footer>
         <div class="footer">

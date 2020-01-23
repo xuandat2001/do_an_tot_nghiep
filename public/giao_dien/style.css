@@ -451,6 +451,13 @@ footer {
   footer .img-footer:hover {
     opacity: 0.4;
     transition-duration: 0.5s; }
+  footer .messege {
+    position: fixed;
+    right: 4%;
+    bottom: 17%; }
+    footer .messege a img {
+      width: 60px;
+      height: auto; }
 
 .footer {
   background-color: #0f1215; }
