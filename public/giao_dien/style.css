@@ -47,7 +47,7 @@ header {
       font-size: 18px;
       box-sizing: border-box;
       overflow: hidden;
-      border-style: none; }
+      border: 1px solid #fff; }
     header .menu1 .nav-link:hover {
       color: #e7272d;
       border: 1px solid #e7272d;
@@ -214,18 +214,6 @@ header {
     background: #fff;
     text-align: center;
     position: relative; }
-  .menu .food-all:before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background: rgba(80, 80, 80, 0.8);
-    transition: 1s;
-    z-index: 1; }
-  .menu .food-all:hover:before {
-    height: 0; }
   .menu .name-food {
     z-index: 199;
     background: #fff;

@@ -59,7 +59,7 @@
                         font-size:18px;
                         box-sizing: border-box;
                         overflow: hidden;
-                        border-style: none;
+                        border: 1px solid #fff;
                     }
                     .nav-link:hover{
                         color:#e7272d;
@@ -297,21 +297,21 @@
           position: relative;
 
       }
-      .food-all:before{
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        height:100%;
-        width: 100%;
-        background: rgba(80, 80, 80, 0.8);
-        transition: 1s;
-        z-index: 1;
-      }
-      .food-all:hover:before{
-          height:0;
+    //   .food-all:before{
+    //     content: "";
+    //     position: absolute;
+    //     top: 0;
+    //     left: 0;
+    //     height:100%;
+    //     width: 100%;
+    //     background: rgba(80, 80, 80, 0.8);
+    //     transition: 1s;
+    //     z-index: 1;
+    //   }
+    //   .food-all:hover:before{
+    //       height:0;
 
-      }
+    //   }
       .name-food{
         z-index: 199;
         background: #fff;
