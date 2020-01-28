@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-xl-4 col-md-4 col-12">
                     <div class="chef">
-                        <img src="img/8.png" alt="">
+                        <img src="giao_dien/chef/img/8.png" alt="">
                         <div class="name-chef">
                             <h4><a href="#">DUNG TRAN</a></h4>
                             <p>chef</p>
@@ -45,7 +45,7 @@
                 </div>
                 <div class="col-xl-4 col-md-4 col-12">
                     <div class="chef">
-                        <img src="img/9.png" alt="">
+                        <img src="giao_dien/chef/img/9.png" alt="">
                         <div class="name-chef">
                             <h4><a href="#">DINH NGUYEN</a></h4>
                             <p>head chef</p>
@@ -69,7 +69,7 @@
                 <div class="col-xl-4 col-md-4 col-12">
                     <div class="chef">
                         <img src="img/10.jpg" alt="">
-                        <div class="name-chef">
+                        <div class="giao_dien/chef/name-chef">
                             <h4><a href="#">REACH cooking class students</a></h4>
                             <p>Chef's assistant</p>
                             <div class="menu">
