@@ -17,3 +17,18 @@ Route::get('/', function () {
 Route::get('/',function(){
     return view('page.trang_chu');
 });
+Route::get('/',function(){
+    return view('page.dau_bep');
+});
+Route::get('/',function(){
+    return view('page.tin_tuc');
+});
+Route::get('/',function(){
+    return view('page.tin_tuc1');
+});
+Route::get('/',function(){
+    return view('page.tin_tuc2');
+});
+Route::get('/',function(){
+    return view('page.tin_tuc3');
+});
