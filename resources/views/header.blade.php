@@ -33,7 +33,7 @@
                 <div class="row menu-header">
                     <ul class="col-xl-5 col-md-5 nav menu1">
                         <li class=" nav-item">
-                            <a class=" nav-link active" href="#">trang chủ</a>
+                            <a class=" nav-link active" href="127.0.0.1:8000/page.show">trang chủ</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="chef/index.html">menu</a>

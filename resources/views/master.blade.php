@@ -119,6 +119,17 @@
         })
 
     </script>
+    <script>
+        $(function(){
+$(window).scroll(function () {
+if ($(this).scrollTop() > 100) $(".down-top").fadeIn();
+else $(".down-top").fadeOut();
+});
+$(".down-top").click(function () {
+$("body,html").animate({scrollTop: 0}, "slow");
+});
+});
+    </script>
 </body>
 
 </html>

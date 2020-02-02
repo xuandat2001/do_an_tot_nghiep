@@ -137,32 +137,32 @@ header {
     header .menu2 {
       display: none; } }
 
-.content .img-content {
+.content-chef .img-content {
   background-image: url("img/1-2.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover; }
-  .content .img-content h1 {
+  .content-chef .img-content h1 {
     color: #fff;
     font-size: 48px;
     padding: 50px 0px; }
-  .content .img-content p {
+  .content-chef .img-content p {
     padding: 50px 0px; }
-    .content .img-content p span {
+    .content-chef .img-content p span {
       color: #e7272d;
       font-size: 14px; }
-    .content .img-content p a {
+    .content-chef .img-content p a {
       color: #fff; }
-.content .chef {
+.content-chef .chef {
   position: relative;
   width: 100%; }
-  .content .chef img {
+  .content-chef .chef img {
     position: relative;
     width: 100%;
     top: 0;
     left: 0;
     height: auto; }
-  .content .chef .name-chef {
+  .content-chef .chef .name-chef {
     position: absolute;
     height: 73%;
     left: 0;
@@ -171,41 +171,41 @@ header {
     background-color: #e7272d;
     transition: 1s;
     bottom: 0; }
-    .content .chef .name-chef h4 {
+    .content-chef .chef .name-chef h4 {
       font-size: 24px;
       margin-bottom: 10px;
       margin-top: 12px;
       text-align: center; }
-      .content .chef .name-chef h4 a {
+      .content-chef .chef .name-chef h4 a {
         color: #fff; }
-      .content .chef .name-chef h4 a:hover {
+      .content-chef .chef .name-chef h4 a:hover {
         text-decoration: none !important; }
-    .content .chef .name-chef p {
+    .content-chef .chef .name-chef p {
       color: #fff;
       font-size: 14px;
       line-height: 24px;
       margin: 0 0 20px 0;
       text-align: center; }
-    .content .chef .name-chef .menu {
-      padding-top: 50px;
+    .content-chef .chef .name-chef .menu {
+      padding-top: 20px;
       background-color: #191d20; }
-      .content .chef .name-chef .menu .line {
+      .content-chef .chef .name-chef .menu .line {
         width: 120px;
         height: 1px;
         background: #e7272d;
         margin: 0 auto;
         margin-bottom: 50px; }
-      .content .chef .name-chef .menu .nav-menu {
+      .content-chef .chef .name-chef .menu .nav-menu {
         display: flex;
         justify-content: center;
         padding-bottom: 20px; }
-        .content .chef .name-chef .menu .nav-menu a {
+        .content-chef .chef .name-chef .menu .nav-menu a {
           color: #fff;
           border-radius: 50%; }
-        .content .chef .name-chef .menu .nav-menu a:hover {
+        .content-chef .chef .name-chef .menu .nav-menu a:hover {
           background-color: #e7272d;
           transition: 0.5s; }
-.content .chef:hover .name-chef {
+.content-chef .chef:hover .name-chef {
   bottom: 40%; }
 
 footer {
