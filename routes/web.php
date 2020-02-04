@@ -71,3 +71,6 @@ Route::get('cart',function(){
 Route::get('admin',function(){
     return view('page.admin');
 });
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

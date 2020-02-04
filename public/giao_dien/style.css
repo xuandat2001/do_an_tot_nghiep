@@ -441,7 +441,7 @@ footer {
     transition-duration: 0.5s; }
   footer .down-top {
     display: none;
-    bottom: 40%;
+    bottom: 10%;
     right: 10px;
     cursor: pointer;
     position: fixed;

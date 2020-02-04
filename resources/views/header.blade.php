@@ -33,16 +33,16 @@
                 <div class="row menu-header">
                     <ul class="col-xl-5 col-md-5 nav menu1">
                         <li class=" nav-item">
-                            <a class=" nav-link active" href="127.0.0.1:8000/page.show">trang chủ</a>
+                            <a class=" nav-link active" href="http://127.0.0.1:8000/trang_chu" >trang chủ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="chef/index.html">menu</a>
+                            <a class="nav-link" href="http://127.0.0.1:8000/show">menu</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">combo</a>
+                            <a class="nav-link" href="http://127.0.0.1:8000/combo">combo</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">đầu bếp</a>
+                            <a class="nav-link" href="http://127.0.0.1:8000/dau_bep">đầu bếp</a>
                         </li>
                     </ul>
                     <div class="col-xl-2 col-md-2 menu2">
@@ -50,13 +50,13 @@
                     </div>
                     <ul class="col-xl-5 col-md-5 nav menu1">
                         <li class="nav-item">
-                            <a class="nav-link" href="#">về koi</a>
+                            <a class="nav-link" href="http://127.0.0.1:8000/ve_koi">về koi</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">tin tức</a>
+                            <a class="nav-link" href="http://127.0.0.1:8000/tin_tuc">tin tức</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">liên hệ</a>
+                            <a class="nav-link" href="http://127.0.0.1:8000/lien_he">liên hệ</a>
                         </li>
                         <div id="app" class="menu-search">
                             <div class="search">
@@ -98,25 +98,25 @@
 
                                 </li>
                                 <li class=" nav-item">
-                                    <a class=" nav-link active" href="#">trang chủ</a>
+                                    <a class=" nav-link active" href="http://127.0.0.1:8000/trang_chu">trang chủ</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">menu</a>
+                                    <a class="nav-link" href="http://127.0.0.1:8000/show">menu</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">combo</a>
+                                    <a class="nav-link" href="http://127.0.0.1:8000/combo">combo</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">đầu bếp</a>
+                                    <a class="nav-link" href="http://127.0.0.1:8000/dau_bep">đầu bếp</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">về koi</a>
+                                    <a class="nav-link" href="http://127.0.0.1:8000/ve_koi">về koi</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">tin tức</a>
+                                    <a class="nav-link" href="http://127.0.0.1:8000/tin_tuc">tin tức</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">liên hệ</a>
+                                    <a class="nav-link" href="http://127.0.0.1:8000/lien_he">liên hệ</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#"><img src="giao_dien/img/1.png" alt="LANGUAGE"></a>
