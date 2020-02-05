@@ -20,7 +20,7 @@
                             </h2>
                             <ul class="nav nav-content">
                                 <li class="nav-item ">Post By<span> <a href="#">Koi</a></span></li>
-                                <li class="nav-item">Comment<span> (0)</li>
+                                <li class="nav-item">Comment<span> (0)</span></li>
                                 <li class="nav-item">Categories:<span> <a href="#" target="_self">Tin Tức</a></span>
                                 </li>
                             </ul>
@@ -40,7 +40,7 @@
                             </h2>
                             <ul class="nav nav-content">
                                 <li class="nav-item ">Post By<span> <a href="#">Koi</a></span></li>
-                                <li class="nav-item">Comment<span> (0)</li>
+                                <li class="nav-item">Comment<span> (0)</span></li>
                                 <li class="nav-item">Categories:<span> <a href="#" target="_self">Tin Tức</a></span>
                                 </li>
                             </ul>
@@ -60,7 +60,7 @@
                             </h2>
                             <ul class="nav nav-content">
                                 <li class="nav-item ">Post By<span> <a href="#">Koi</a></span></li>
-                                <li class="nav-item">Comment<span> (0)</li>
+                                <li class="nav-item">Comment<span> (0)</span></li>
                                 <li class="nav-item">Categories:<span> <a href="#" target="_self">Tin Tức</a></span>
                                 </li>
                             </ul>

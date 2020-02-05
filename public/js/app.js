@@ -37334,6 +37334,243 @@ render._withStripped = true
 
 /***/ }),
 
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/big_bento.vue?vue&type=template&id=4892b30c&":
+/*!************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/big_bento.vue?vue&type=template&id=4892b30c& ***!
+  \************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c(
+    "div",
+    [
+      _c("checkout", [
+        _c("div", { staticClass: "container-flult" }, [
+          _c("div", { staticClass: "checkout " }, [
+            _c("div", { staticClass: "overlay" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "checkout-text" }, [
+              _c("h2", { staticClass: "text" }, [_vm._v("về koi")]),
+              _vm._v(" "),
+              _c("div", { staticClass: "koi" }, [
+                _c("a", { staticClass: "koibento", attrs: { href: "#" } }, [
+                  _vm._v("koi bento - jabanese restaurant")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _vm._m(0)
+    ],
+    1
+  )
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "menu-show" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "all-menu" }, [
+          _c("ul", { staticClass: "nav" }, [
+            _c("li", { staticClass: "nav-item" }, [
+              _c("a", { staticClass: "nav-link", attrs: { href: "#" } }, [
+                _vm._v("show all")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", { staticClass: "nav-item" }, [
+              _c("a", { staticClass: "nav-link", attrs: { href: "#" } }, [
+                _vm._v("big bento")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", { staticClass: "nav-item" }, [
+              _c("a", { staticClass: "nav-link", attrs: { href: "#" } }, [
+                _vm._v("mini bento")
+              ])
+            ]),
+            _vm._v(" "),
+            _c("li", { staticClass: "nav-item" }, [
+              _c("a", { staticClass: "nav-link", attrs: { href: "#" } }, [
+                _vm._v("shushi")
+              ])
+            ])
+          ])
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "show-all" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-xl-6 col-md-6" }, [
+              _c("div", { staticClass: "row child1" }, [
+                _c("div", { staticClass: " col-xl-7 " }, [
+                  _c("a", { attrs: { href: "#" } }, [
+                    _c("img", {
+                      staticStyle: { margin: "50px 0" },
+                      attrs: {
+                        src: "giao_dien/show/big_bento/img/suon.png",
+                        alt: "",
+                        width: "100%",
+                        height: "auto"
+                      }
+                    })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "name-food col-xl-5 " }, [
+                  _c("h4", [_vm._v("lươn nhật sốt teri")]),
+                  _vm._v(" "),
+                  _c("p", [_vm._v("1000đ")]),
+                  _vm._v(" "),
+                  _c("form", { attrs: { action: "", method: "" } }, [
+                    _c("button", { attrs: { type: "button" } }, [_vm._v("-")]),
+                    _vm._v(" "),
+                    _c("input", { attrs: { type: "number", name: "number" } }),
+                    _vm._v(" "),
+                    _c("button", { attrs: { type: "buton" } }, [_vm._v("+")]),
+                    _vm._v(" "),
+                    _c(
+                      "button",
+                      { staticClass: "add-cart", attrs: { type: "submit" } },
+                      [_vm._v("ADD TO CART")]
+                    )
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row child1" }, [
+                _c("div", { staticClass: " col-xl-7 " }, [
+                  _c("a", { attrs: { href: "#" } }, [
+                    _c("img", {
+                      staticStyle: { margin: "50px 0" },
+                      attrs: {
+                        src: "giao_dien/show/big_bento/img/suon.png",
+                        alt: "",
+                        width: "100%",
+                        height: "auto"
+                      }
+                    })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "name-food col-xl-5 " }, [
+                  _c("h4", [_vm._v("lươn nhật sốt teri")]),
+                  _vm._v(" "),
+                  _c("p", [_vm._v("1000đ")]),
+                  _vm._v(" "),
+                  _c("form", { attrs: { action: "", method: "" } }, [
+                    _c("button", { attrs: { type: "button" } }, [_vm._v("-")]),
+                    _vm._v(" "),
+                    _c("input", { attrs: { type: "number", name: "number" } }),
+                    _vm._v(" "),
+                    _c("button", { attrs: { type: "buton" } }, [_vm._v("+")]),
+                    _vm._v(" "),
+                    _c(
+                      "button",
+                      { staticClass: "add-cart", attrs: { type: "submit" } },
+                      [_vm._v("ADD TO CART")]
+                    )
+                  ])
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-xl-6 col-md-6" }, [
+              _c("div", { staticClass: "row child1" }, [
+                _c("div", { staticClass: " col-xl-7 " }, [
+                  _c("a", { attrs: { href: "#" } }, [
+                    _c("img", {
+                      staticStyle: { margin: "50px 0" },
+                      attrs: {
+                        src: "giao_dien/show/big_bento/img/suon.png",
+                        alt: "",
+                        width: "100%",
+                        height: "auto"
+                      }
+                    })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "name-food col-xl-5" }, [
+                  _c("h4", [_vm._v("lươn nhật sốt teri")]),
+                  _vm._v(" "),
+                  _c("p", [_vm._v("(1000đ)")]),
+                  _vm._v(" "),
+                  _c("form", { attrs: { action: "", method: "" } }, [
+                    _c("button", { attrs: { type: "button" } }, [_vm._v("-")]),
+                    _vm._v(" "),
+                    _c("input", { attrs: { type: "number", name: "number" } }),
+                    _vm._v(" "),
+                    _c("button", { attrs: { type: "buton" } }, [_vm._v("+")]),
+                    _vm._v(" "),
+                    _c(
+                      "button",
+                      { staticClass: "add-cart", attrs: { type: "submit" } },
+                      [_vm._v("ADD TO CART")]
+                    )
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row child1" }, [
+                _c("div", { staticClass: " col-xl-7 " }, [
+                  _c("a", { attrs: { href: "#" } }, [
+                    _c("img", {
+                      staticStyle: { margin: "50px 0" },
+                      attrs: {
+                        src: "giao_dien/show/big_bento/img/suon.png",
+                        alt: "",
+                        width: "100%",
+                        height: "auto"
+                      }
+                    })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "name-food col-xl-5 " }, [
+                  _c("h4", [_vm._v("lươn nhật sốt teri")]),
+                  _vm._v(" "),
+                  _c("p", [_vm._v("(1000đ)")]),
+                  _vm._v(" "),
+                  _c("form", { attrs: { action: "", method: "" } }, [
+                    _c("button", { attrs: { type: "button" } }, [_vm._v("-")]),
+                    _vm._v(" "),
+                    _c("input", { attrs: { type: "number", name: "number" } }),
+                    _vm._v(" "),
+                    _c("button", { attrs: { type: "buton" } }, [_vm._v("+")]),
+                    _vm._v(" "),
+                    _c(
+                      "button",
+                      { staticClass: "add-cart", attrs: { type: "submit" } },
+                      [_vm._v("ADD TO CART")]
+                    )
+                  ])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
 /***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/cart.vue?vue&type=template&id=bfae042a&":
 /*!*******************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/cart.vue?vue&type=template&id=bfae042a& ***!
@@ -37376,6 +37613,74 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("a", { attrs: { href: "http://127.0.0.1:8000/show" } }, [
             _vm._v("Quay Lại")
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/combo.vue?vue&type=template&id=20f7d95a&":
+/*!********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/combo.vue?vue&type=template&id=20f7d95a& ***!
+  \********************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "content-combo" }, [
+      _c("div", { staticClass: "img-bg" }, [
+        _c("h1", [_vm._v("ĐẦU BẾP NHÀ HÀNG")]),
+        _vm._v(" "),
+        _c("p", [
+          _c("a", { attrs: { href: "../index.html" } }, [
+            _vm._v("KOI BENTO - Nhà hàng Nhật>")
+          ]),
+          _c("a", { attrs: { href: "#" } }, [_vm._v("Đầu Bếp")]),
+          _c("span", [_vm._v(" REACH cooking class students")])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-xl-6 col-md-12 col-12" }, [
+            _c("div", { staticClass: "img-left" }, [
+              _c("img", {
+                staticClass: "img-responsive",
+                attrs: { src: "giao_dien/combo/img/10.jpg", alt: "KOI" }
+              }),
+              _vm._v(" "),
+              _c("span", [_vm._v("200000đ")])
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-xl-6 col-md-12 col-12" }, [
+            _c("div", { staticClass: "content-right" }, [
+              _c("h3", [_vm._v("\n                        Test Sự Kiện")]),
+              _vm._v(" "),
+              _c("p", { staticClass: "text-content-right" }, [
+                _vm._v("200.000 đồng / người Từ 10 người trở lên ")
+              ])
+            ])
           ])
         ])
       ])
@@ -37814,6 +38119,75 @@ var staticRenderFns = [
                 ])
               ])
             ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/lien_he.vue?vue&type=template&id=1de2b10a&":
+/*!**********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/lien_he.vue?vue&type=template&id=1de2b10a& ***!
+  \**********************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c(
+    "div",
+    [
+      _c("checkout", [
+        _c("div", { staticClass: "container-flult" }, [
+          _c("div", { staticClass: "checkout " }, [
+            _c("div", { staticClass: "overlay" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "checkout-text" }, [
+              _c("h2", { staticClass: "text" }, [_vm._v("liên hệ")]),
+              _vm._v(" "),
+              _c("div", { staticClass: "koi" }, [
+                _c("a", { staticClass: "koibento", attrs: { href: "#" } }, [
+                  _vm._v("koi bento - jabanese restaurant")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _vm._m(0)
+    ],
+    1
+  )
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "contact" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-xl-12 text" }, [
+            _c("p", [
+              _vm._v("Liên hệ với chúng tôi qua email: koibento@reach.org.vn")
+            ]),
+            _vm._v(" "),
+            _c("p", [_vm._v("Hotline: 0974 704 288")]),
+            _vm._v(" "),
+            _c("p", [_vm._v("Cảm ơn bạn đã ủng hộ Koibento")])
           ])
         ])
       ])
@@ -38434,8 +38808,340 @@ render._withStripped = true
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function () {}
-var staticRenderFns = []
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _vm._m(0)
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "content-top" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("h1", [_vm._v("CHUYÊN MỤC :TIN TỨC")]),
+          _vm._v(" "),
+          _c("p", [
+            _c("a", { attrs: { href: "http://127.0.0.1:8000/trang_chu" } }, [
+              _vm._v("KOI BENTO - Nhà hàng Nhật>")
+            ]),
+            _c("span", [_vm._v("Tin TỨC")])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "content-bottom" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-xl-8 col-md-8 col-12" }, [
+              _c("div", { staticClass: "new-header" }, [
+                _c("div", { staticClass: "img-content" }, [
+                  _c("img", {
+                    attrs: {
+                      src: "giao_dien/news/img/Linh-2-377x251.jpg",
+                      alt: "img"
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "text-content" }, [
+                  _c("h2", [
+                    _c("a", { attrs: { href: "#" } }, [
+                      _vm._v(
+                        "\r\n                                    KOI Bento Đồng hành những ước mơ"
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "nav nav-content" }, [
+                    _c("li", { staticClass: "nav-item " }, [
+                      _vm._v("Post By"),
+                      _c("span", [
+                        _c("a", { attrs: { href: "#" } }, [_vm._v("Koi")])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "nav-item" }, [
+                      _vm._v("Comment"),
+                      _c("span", [_vm._v(" (0)")])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "nav-item" }, [
+                      _vm._v("Categories:"),
+                      _c("span", [
+                        _c("a", { attrs: { href: "#", target: "_self" } }, [
+                          _vm._v("Tin Tức")
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _vm._v(
+                      "Linh sinh ra ở một vùng quê nghèo miền núi tỉnh Thanh Hóa. Cô gái nhỏ 20 tuổi là chị cả\r\n                                trong một gia đình gồm 4 chị em, 2 em gái và 1 em trai. Bố mẹ em đều là nông dân với\r\n                                nguồn thu nhập không ổn định mỗi tháng. Sau khi kết […]"
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "btn btn-outline-danger",
+                      attrs: { href: "http://127.0.0.1:8000/tin_tuc1" }
+                    },
+                    [_vm._v("READ MORE")]
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "new-center" }, [
+                _c("div", { staticClass: "img-content" }, [
+                  _c("img", {
+                    attrs: {
+                      src: "giao_dien/news/img/saba-377x251.png",
+                      alt: "img"
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "text-content" }, [
+                  _c("h2", [
+                    _c("a", { attrs: { href: "#" } }, [
+                      _vm._v(
+                        "\r\n                                    KOI Bento-điểm thú vị trong văn hóa ẩm thực Nhật Bản"
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "nav nav-content" }, [
+                    _c("li", { staticClass: "nav-item " }, [
+                      _vm._v("Post By"),
+                      _c("span", [
+                        _c("a", { attrs: { href: "#" } }, [_vm._v("Koi")])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "nav-item" }, [
+                      _vm._v("Comment"),
+                      _c("span", [_vm._v(" (0)")])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "nav-item" }, [
+                      _vm._v("Categories:"),
+                      _c("span", [
+                        _c("a", { attrs: { href: "#", target: "_self" } }, [
+                          _vm._v("Tin Tức")
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _vm._v(
+                      "Nhắc tới Nhật Bản, ai ai cũng nghĩ tới sự cần cù, tỉ mỉ và cầu kỳ. Ẩm thực cũng không nằm\r\n                                ngoài những đặc điểm đó. Đặc biệt, ẩm thực Nhật nổi tiếng khắp thế giới bởi những món ăn\r\n                                không chỉ ngon mà còn phải đẹp. Đó cũng là lý do Nhật Bản […]"
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "btn btn-outline-danger",
+                      attrs: { href: "http://127.0.0.1:8000/tin_tuc2" }
+                    },
+                    [_vm._v("READ MORE")]
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "new-footer" }, [
+                _c("div", { staticClass: "img-content" }, [
+                  _c("img", {
+                    attrs: {
+                      src: "giao_dien/news/img/class-1200x600.jpg",
+                      alt: "img"
+                    }
+                  })
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "text-content" }, [
+                  _c("h2", [
+                    _c(
+                      "a",
+                      { attrs: { href: "http://127.0.0.1:8000/tin_tuc" } },
+                      [
+                        _vm._v(
+                          "\r\n                                    KOI Bento - Doanh Nghiệp xã hội của REACH"
+                        )
+                      ]
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("ul", { staticClass: "nav nav-content" }, [
+                    _c("li", { staticClass: "nav-item " }, [
+                      _vm._v("Post By"),
+                      _c("span", [
+                        _c("a", { attrs: { href: "#" } }, [_vm._v("Koi")])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "nav-item" }, [
+                      _vm._v("Comment"),
+                      _c("span", [_vm._v(" (0)")])
+                    ]),
+                    _vm._v(" "),
+                    _c("li", { staticClass: "nav-item" }, [
+                      _vm._v("Categories:"),
+                      _c("span", [
+                        _c("a", { attrs: { href: "#", target: "_self" } }, [
+                          _vm._v("Tin Tức")
+                        ])
+                      ])
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _vm._v(
+                      "KOI Bento là một doanh nghiệp xã hội của REACH trong đó 100% lợi nhuận được sử dụng để\r\n                                giúp đỡ những thanh niên có hoàn cảnh khó khăn đang theo học tại đây. REACH là một tổ\r\n                                chức phi chính phủ tại Việt Nam trong lĩnh vực đào tạo nghề và giúp đỡ tìm […]"
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "a",
+                    {
+                      staticClass: "btn btn-outline-danger",
+                      attrs: { href: "#" }
+                    },
+                    [_vm._v("READ MORE")]
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-xl-4 col-md-4 col-12" }, [
+              _c("div", { staticClass: "sider-bar-header" }, [
+                _c("h3", [
+                  _vm._v(
+                    "\r\n                            TÌM KIẾM\r\n                        "
+                  )
+                ]),
+                _vm._v(" "),
+                _c("form", { attrs: { action: "", method: "" } }, [
+                  _c("div", { staticClass: "search" }, [
+                    _c("input", {
+                      attrs: {
+                        type: "text",
+                        name: "search",
+                        placeholder: "Tìm kiếm..."
+                      }
+                    }),
+                    _vm._v(" "),
+                    _c("button", { attrs: { type: "button" } }, [
+                      _c("i", { staticClass: "fa fa-search" })
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "sider-bar-center" }, [
+                _c("h3", [_vm._v("DANH MỤC")]),
+                _vm._v(" "),
+                _c("p", [
+                  _c("span", [_vm._v(">")]),
+                  _c("a", { attrs: { href: "#", target: "_self" } }, [
+                    _vm._v("TIN TỨC")
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "sider-bar-footer" }, [
+                _c("h3", [_vm._v("TAGS ClOULD")]),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  { staticClass: "btn", attrs: { href: "new2/index.html" } },
+                  [_vm._v("bento")]
+                ),
+                _vm._v(" "),
+                _c("a", { staticClass: "btn", attrs: { href: "#" } }, [
+                  _vm._v("bento Nhật Bản")
+                ]),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  { staticClass: "btn", attrs: { href: "new2/index.html" } },
+                  [_vm._v("Cơm Nhật")]
+                ),
+                _vm._v(" "),
+                _c("a", { staticClass: "btn", attrs: { href: "#" } }, [
+                  _vm._v("Cơm")
+                ]),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  { staticClass: "btn", attrs: { href: "new2/index.html" } },
+                  [_vm._v("Cơm Trưa")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass: "btn",
+                    attrs: { href: "../index.html\r\n                        " }
+                  },
+                  [_vm._v("Doanh Nghiệp Xã Hội")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  {
+                    staticClass: "btn",
+                    attrs: { href: "../index.html", target: "" }
+                  },
+                  [_vm._v("KOI BENTO")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  { staticClass: "btn", attrs: { href: "../index.html" } },
+                  [_vm._v("Món Nhật")]
+                ),
+                _vm._v(" "),
+                _c("a", { staticClass: "btn", attrs: { href: "#" } }, [
+                  _vm._v("NHẬT BẢN")
+                ]),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  { staticClass: "btn", attrs: { href: "../index.html" } },
+                  [_vm._v("nấu ăn")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  { staticClass: "btn", attrs: { href: "../index.html" } },
+                  [_vm._v("REACH")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "a",
+                  { staticClass: "btn", attrs: { href: "new2/index.html" } },
+                  [_vm._v("Văn Hóa Ẩm Thực")]
+                ),
+                _vm._v(" "),
+                _c("a", { staticClass: "btn", attrs: { href: "#" } }, [
+                  _vm._v("Ăn trưa")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
+  }
+]
+render._withStripped = true
 
 
 
@@ -40104,6 +40810,93 @@ var staticRenderFns = [
         ])
       ]
     )
+  }
+]
+render._withStripped = true
+
+
+
+/***/ }),
+
+/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/ve_koi.vue?vue&type=template&id=eea88500&":
+/*!*********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/ve_koi.vue?vue&type=template&id=eea88500& ***!
+  \*********************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
+var render = function() {
+  var _vm = this
+  var _h = _vm.$createElement
+  var _c = _vm._self._c || _h
+  return _c(
+    "div",
+    [
+      _c("checkout", [
+        _c("div", { staticClass: "container-flult" }, [
+          _c("div", { staticClass: "checkout " }, [
+            _c("div", { staticClass: "overlay" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "checkout-text" }, [
+              _c("h2", { staticClass: "text" }, [_vm._v("Về Koi")]),
+              _vm._v(" "),
+              _c("div", { staticClass: "koi" }, [
+                _c("a", { staticClass: "koibento", attrs: { href: "#" } }, [
+                  _vm._v("koi bento - jabanese restaurant")
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _vm._m(0)
+    ],
+    1
+  )
+}
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "contact" }, [
+      _c("div", { staticClass: "container" }, [
+        _c("div", { staticClass: "row" }, [
+          _c("div", { staticClass: "col-xl-12 text" }, [
+            _c("p", [
+              _vm._v(
+                "KOI Bento là một dự án doanh nghiệp xã hội trong đó toàn bộ lợi nhuận dùng để giúp đỡ những thanh niên có hoàn cảnh khó khăn đang theo học tại REACH – một trong những NGO đạt đước nhiều thành công tại Việt Nam. Hằng năm, REACH đào tạo hơn 1000 thành niên có hoàn cảnh khó khăn tại Việt Nam, từ đó giúp các em có được công việc ổn định."
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "KOI Bento chuyên cung cấp hộp cơm trưa Nhật Bản tới tận tay khách hàng. Tất cả các sản phẩm của KOI đều được chuẩn bị công phu bởi các đầu bếp của REACH và các học sinh. Đầu bếp tại REACH được đào tạo bởi đầu bếp có kinh nghiệm dày dặn tại Nhật Bản. Các em học sinh theo chương trình đào tạo có đủ điều kiện để phục vụ cho các nhà hàng Nhật Bản và khách sạn 5 sao."
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "Tất cả thực đơn đảm bảo tươi ngon, giàu dinh dưỡng và chuẩn bị bởi những nguyên liệu tuyệt vời nhất. Chúng tôi luôn nỗ lực mang tới những món ăn chuẩn Nhật tới thực khách của KOI."
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _c("strong", [
+                _vm._v(
+                  "KOI BENTO – Hộp cơm trưa Nhật Bản tươi ngon và dinh dưỡng cho tất cả mọi người."
+                )
+              ])
+            ])
+          ])
+        ])
+      ])
+    ])
   }
 ]
 render._withStripped = true
@@ -52301,6 +53094,10 @@ Vue.component('dau_bep', __webpack_require__(/*! ./components/dau_bep.vue */ "./
 Vue.component('cart', __webpack_require__(/*! ./components/cart.vue */ "./resources/js/components/cart.vue")["default"]);
 Vue.component('dat_hang', __webpack_require__(/*! ./components/dat_hang.vue */ "./resources/js/components/dat_hang.vue")["default"]);
 Vue.component('tin_tuc', __webpack_require__(/*! ./components/tin_tuc.vue */ "./resources/js/components/tin_tuc.vue")["default"]);
+Vue.component('ve_koi', __webpack_require__(/*! ./components/ve_koi.vue */ "./resources/js/components/ve_koi.vue")["default"]);
+Vue.component('lien_he', __webpack_require__(/*! ./components/lien_he.vue */ "./resources/js/components/lien_he.vue")["default"]);
+Vue.component('combo', __webpack_require__(/*! ./components/combo.vue */ "./resources/js/components/combo.vue")["default"]);
+Vue.component('big_bento', __webpack_require__(/*! ./components/big_bento.vue */ "./resources/js/components/big_bento.vue")["default"]);
 /**
  * Next, we will create a fresh Vue application instance and attach it to
  * the page. Then, you may begin adding components to this application
@@ -52427,6 +53224,59 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/components/big_bento.vue":
+/*!***********************************************!*\
+  !*** ./resources/js/components/big_bento.vue ***!
+  \***********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _big_bento_vue_vue_type_template_id_4892b30c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./big_bento.vue?vue&type=template&id=4892b30c& */ "./resources/js/components/big_bento.vue?vue&type=template&id=4892b30c&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+var script = {}
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
+  _big_bento_vue_vue_type_template_id_4892b30c___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _big_bento_vue_vue_type_template_id_4892b30c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/big_bento.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/big_bento.vue?vue&type=template&id=4892b30c&":
+/*!******************************************************************************!*\
+  !*** ./resources/js/components/big_bento.vue?vue&type=template&id=4892b30c& ***!
+  \******************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_big_bento_vue_vue_type_template_id_4892b30c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./big_bento.vue?vue&type=template&id=4892b30c& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/big_bento.vue?vue&type=template&id=4892b30c&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_big_bento_vue_vue_type_template_id_4892b30c___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_big_bento_vue_vue_type_template_id_4892b30c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
 /***/ "./resources/js/components/cart.vue":
 /*!******************************************!*\
   !*** ./resources/js/components/cart.vue ***!
@@ -52475,6 +53325,59 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_cart_vue_vue_type_template_id_bfae042a___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_cart_vue_vue_type_template_id_bfae042a___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/combo.vue":
+/*!*******************************************!*\
+  !*** ./resources/js/components/combo.vue ***!
+  \*******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _combo_vue_vue_type_template_id_20f7d95a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./combo.vue?vue&type=template&id=20f7d95a& */ "./resources/js/components/combo.vue?vue&type=template&id=20f7d95a&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+var script = {}
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
+  _combo_vue_vue_type_template_id_20f7d95a___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _combo_vue_vue_type_template_id_20f7d95a___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/combo.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/combo.vue?vue&type=template&id=20f7d95a&":
+/*!**************************************************************************!*\
+  !*** ./resources/js/components/combo.vue?vue&type=template&id=20f7d95a& ***!
+  \**************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_combo_vue_vue_type_template_id_20f7d95a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./combo.vue?vue&type=template&id=20f7d95a& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/combo.vue?vue&type=template&id=20f7d95a&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_combo_vue_vue_type_template_id_20f7d95a___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_combo_vue_vue_type_template_id_20f7d95a___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 
@@ -52581,6 +53484,59 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_dau_bep_vue_vue_type_template_id_6fe201eb___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_dau_bep_vue_vue_type_template_id_6fe201eb___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/lien_he.vue":
+/*!*********************************************!*\
+  !*** ./resources/js/components/lien_he.vue ***!
+  \*********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _lien_he_vue_vue_type_template_id_1de2b10a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./lien_he.vue?vue&type=template&id=1de2b10a& */ "./resources/js/components/lien_he.vue?vue&type=template&id=1de2b10a&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+var script = {}
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
+  _lien_he_vue_vue_type_template_id_1de2b10a___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _lien_he_vue_vue_type_template_id_1de2b10a___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/lien_he.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/lien_he.vue?vue&type=template&id=1de2b10a&":
+/*!****************************************************************************!*\
+  !*** ./resources/js/components/lien_he.vue?vue&type=template&id=1de2b10a& ***!
+  \****************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_lien_he_vue_vue_type_template_id_1de2b10a___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./lien_he.vue?vue&type=template&id=1de2b10a& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/lien_he.vue?vue&type=template&id=1de2b10a&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_lien_he_vue_vue_type_template_id_1de2b10a___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_lien_he_vue_vue_type_template_id_1de2b10a___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 
@@ -52740,6 +53696,59 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_trang_chu_vue_vue_type_template_id_41fe6052___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_trang_chu_vue_vue_type_template_id_41fe6052___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
+
+
+
+/***/ }),
+
+/***/ "./resources/js/components/ve_koi.vue":
+/*!********************************************!*\
+  !*** ./resources/js/components/ve_koi.vue ***!
+  \********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _ve_koi_vue_vue_type_template_id_eea88500___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ve_koi.vue?vue&type=template&id=eea88500& */ "./resources/js/components/ve_koi.vue?vue&type=template&id=eea88500&");
+/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
+
+var script = {}
+
+
+/* normalize component */
+
+var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_1__["default"])(
+  script,
+  _ve_koi_vue_vue_type_template_id_eea88500___WEBPACK_IMPORTED_MODULE_0__["render"],
+  _ve_koi_vue_vue_type_template_id_eea88500___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
+  false,
+  null,
+  null,
+  null
+  
+)
+
+/* hot reload */
+if (false) { var api; }
+component.options.__file = "resources/js/components/ve_koi.vue"
+/* harmony default export */ __webpack_exports__["default"] = (component.exports);
+
+/***/ }),
+
+/***/ "./resources/js/components/ve_koi.vue?vue&type=template&id=eea88500&":
+/*!***************************************************************************!*\
+  !*** ./resources/js/components/ve_koi.vue?vue&type=template&id=eea88500& ***!
+  \***************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ve_koi_vue_vue_type_template_id_eea88500___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./ve_koi.vue?vue&type=template&id=eea88500& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/ve_koi.vue?vue&type=template&id=eea88500&");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ve_koi_vue_vue_type_template_id_eea88500___WEBPACK_IMPORTED_MODULE_0__["render"]; });
+
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_ve_koi_vue_vue_type_template_id_eea88500___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 

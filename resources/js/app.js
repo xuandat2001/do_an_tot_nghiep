@@ -26,6 +26,10 @@ Vue.component('dau_bep', require('./components/dau_bep.vue').default);
 Vue.component('cart', require('./components/cart.vue').default);
 Vue.component('dat_hang', require('./components/dat_hang.vue').default);
 Vue.component('tin_tuc', require('./components/tin_tuc.vue').default);
+Vue.component('ve_koi', require('./components/ve_koi.vue').default);
+Vue.component('lien_he', require('./components/lien_he.vue').default);
+Vue.component('combo', require('./components/combo.vue').default);
+Vue.component('big_bento', require('./components/big_bento.vue').default);
 /**
  * Next, we will create a fresh Vue application instance and attach it to
  * the page. Then, you may begin adding components to this application
