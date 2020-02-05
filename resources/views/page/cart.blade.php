@@ -11,20 +11,7 @@
 <body>
     @extends('master')
     @section('content')
-    <div class="content-cart">
-        <div class="img-bg">
-           <div class="container">
-            <h1>GIỎ HÀNG</h1>
-            <p><a href="../index.html">KOI BENTO - Nhà hàng Nhật></a><span> Giỏ Hàng</span></p>
-           </div>
-        </div>
-        <div class="container">
-            <div class="content-text">
-                <p>Chưa Có Sản Phẩm nào trong Giỏ hàng</p>
-                <a href="#">Quay Lại</a>
-            </div>
-        </div>
-    </div>
+   <cart></cart>
     @endsection
     <script src="https://kit.fontawesome.com/ead959d8f3.js" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
